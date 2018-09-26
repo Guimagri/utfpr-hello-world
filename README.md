@@ -2,10 +2,11 @@
 
 ## Introdução a Engenharia de Software
 
-*Item 1
-*Item 2
-*Item 3
+* Item 1
+* Item 2
+* Item 3
 
+```
 #include<stdio.h>
 
 int main() 
@@ -13,3 +14,4 @@ int main()
 
 return 0;
 }
+```
